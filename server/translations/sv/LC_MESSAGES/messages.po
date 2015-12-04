@@ -1,0 +1,44 @@
+# Swedish translations for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-12-04 14:15+0100\n"
+"PO-Revision-Date: 2015-12-04 14:10+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: sv\n"
+"Language-Team: sv <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: templates/base.mako:29
+msgid "VOPaaS Statistics"
+msgstr "VOPaaS Statistik"
+
+#: templates/base.mako:30
+msgid "Some statistics"
+msgstr "Lite statistik"
+
+#: templates/pick_sp.mako:4
+msgid "All Service Providers"
+msgstr "Alla tjänsteleverantörer"
+
+#: templates/statistics.mako:4
+msgid "Statistics for "
+msgstr "Statistik för "
+
+#: templates/statistics.mako:17
+msgid "Identity Provider"
+msgstr "Identitetsleverantör"
+
+#: templates/statistics.mako:18
+msgid "Frequency"
+msgstr "Frekvens"
+

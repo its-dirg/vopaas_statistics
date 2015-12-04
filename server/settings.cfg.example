@@ -1,0 +1,14 @@
+SSL=True
+SERVER_CERT="./keys/server.crt"
+SERVER_KEY="./keys/server.key"
+JWT_PUB_KEY= ["./keys/satosa.pub"]
+SECRET_SESSION_KEY="fdwqQ"#€%rgsdJKYIU89yhio34tjg)=(v90umjcdASDf="
+PORT=8168
+HOST="127.0.0.1"
+DEBUG=True
+BABEL_DEFAULT_LOCALE='en'
+SALT="aNDdsfj90?`=1MHH23mcASDa#Q()öldk0"
+DATABASE_CLASS_PATH="vopaas_statistics.db.StatSQLiteDatabase"
+DATABASE_CLASS_PARAMETERS=["test.db"]
+LOG_FILE="server.log"
+LOG_LEVEL="WARNING"
