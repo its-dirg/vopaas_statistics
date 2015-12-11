@@ -8,7 +8,7 @@ Copy the **settings.cnf.example** and rename the copy to **settings.cnf**. At th
 possible to name the configuration anything other then **settings.cfg**.
 
 ```shell
-    cd StatisticsService/server/
+    cd vopaas_statistics/server/
     python flask_server.py
 ```
 
