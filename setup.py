@@ -1,14 +1,13 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='vopaas_statistics',
-    version='',
-    packages=['vopaas_statistics'],
+    version='0.0.1',
+    packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='',
-    license='',
+    url='https://github.com/its-dirg/vopaas_statistics',
+    license='Apache License 2.0',
     author='DIRG',
-    author_email='',
-    description='',
+    author_email='dirg@its.umu.se',
     install_requires=["pyjwkest", "Flask", "Flask-Babel", "Flask-Mako", "dataset"]
 )
